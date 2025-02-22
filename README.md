@@ -7,11 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kcharles-ghub/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kcharles-ghub/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection]
   - [Configuring Active Directory within Azure VMs](https://github.com/kcharles-ghub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kcharles-ghub/azure-network-protocols)
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/kadeem-charles-in

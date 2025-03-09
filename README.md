@@ -10,6 +10,7 @@
   - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/kcharles-ghub/vm-remotedesktop)
   - [Configuring Active Directory within Azure VMs](https://github.com/kcharles-ghub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kcharles-ghub/azure-network-protocols)
+  - [Basic DNS Configuration & Testing]((https://github.com/kcharles-ghub/dns-config))
 
 <h2> Connect with me:</h2>
 

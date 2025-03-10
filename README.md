@@ -35,7 +35,7 @@
 
 <h2>Thank You for Visiting My Page!</h2>
  
- <p>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.</p>
+ <p>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to connect and network with me. I promise you'll be glad you did.</p>
 
 <h2> Connect with me:</h2>
 

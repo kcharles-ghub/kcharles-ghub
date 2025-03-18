@@ -28,10 +28,11 @@
   - Diploma in Information Technology Support
 
 <h2>Currently Training:</h2>
-  <li><b>CourseCareers IT Professional (Expected March 31st)</li>
-  <li><b>Linux Professional Institute Linux Essentials 010-160 (Expected March 31st)</li>
-  <li><b>Google Cybersecurity Professional Certificate (Expected December 2025)</li>
-  <li><b>CompTIA Security+ (SY0-701) (Expected December 2025)</li>
+ 
+  - CourseCareers IT Professional (Expected March 31st)</li>
+  - Linux Professional Institute Linux Essentials 010-160 (Expected March 31st)</li>
+  - Google Cybersecurity Professional Certificate (Expected December 2025)</li>
+  - CompTIA Security+ (SY0-701) (Expected December 2025)</li>
 
 <h2>Thank You for Visiting My Page!</h2>
  

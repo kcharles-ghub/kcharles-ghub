@@ -21,6 +21,7 @@
   - Cisco Certified Support Technician Networking (CCST Networking)
   - Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
   - Microsoft IT Support Specialist Specialization
+  - Fortinet Certified Fundamentals Cybersecurity
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals

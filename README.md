@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kadeem, an <a href="https://linkedin.com/in/kadeem-charles-in">IT Professional </h1>
 
-<h2> Key Projects:</h2>
+<h2> Information Technology Key Projects:</h2>
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/kcharles-ghub/vm-remotedesktop)
@@ -16,6 +16,7 @@
 <h2>Certifications:</h2>
 
   - CompTIA IT Fundamentals (ITF+) Certification
+  - CourseCareers IT Professional 
   - CompTIA A+
   - CompTIA Cloud Essentials Certification
   - Cisco Certified Support Technician Networking (CCST Networking)
@@ -30,8 +31,7 @@
 
 <h2>Currently Training:</h2>
  
-  - CourseCareers IT Professional (Expected March 31st)</li>
-  - Linux Professional Institute Linux Essentials 010-160 (Expected March 31st)</li>
+  - Linux Professional Institute Linux Essentials 010-160 (Expected April 31st)</li>
   - Google Cybersecurity Professional Certificate (Expected December 2025)</li>
   - CompTIA Security+ (SY0-701) (Expected December 2025)</li>
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected December 2025 - January 2026)</li>

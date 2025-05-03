@@ -31,7 +31,7 @@
 
 <h2>Currently Training:</h2>
  
-  - Linux Professional Institute Linux Essentials 010-160 (Expected April 31st)</li>
+  - Linux Professional Institute Linux Essentials 010-160 (Expected May 31st)</li>
   - Google Cybersecurity Professional Certificate (Expected December 2025)</li>
   - CompTIA Security+ (SY0-701) (Expected December 2025)</li>
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected December 2025 - January 2026)</li>

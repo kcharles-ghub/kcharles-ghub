@@ -16,7 +16,8 @@
 <h2>Certifications:</h2>
 
   - CompTIA IT Fundamentals (ITF+) Certification
-  - CourseCareers IT Professional 
+  - Linux Professional Institute Linux Essentials
+  - CourseCareers IT Professional Certification
   - CompTIA A+
   - CompTIA Cloud Essentials Certification
   - Cisco Certified Support Technician Networking (CCST Networking)
@@ -31,7 +32,6 @@
 
 <h2>Currently Training:</h2>
  
-  - Linux Professional Institute Linux Essentials 010-160 (Expected May 31st 2025)</li>
   - Google Cybersecurity Professional Certificate (Expected December 2025)</li>
   - CompTIA Security+ (SY0-701) (Expected December 2025)</li>
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected December 2025 - January 2026)</li>

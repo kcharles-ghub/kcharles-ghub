@@ -27,7 +27,7 @@
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals
-  - Healthcare IT Support Specialization
+  - The Johns Hopkins University | Coursera Healthcare IT Support Specialization
   - Diploma in Information Technology Support
 
 <h2>Currently Training:</h2>

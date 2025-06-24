@@ -23,6 +23,7 @@
   - Cisco Certified Support Technician Networking (CCST Networking)
   - Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
   - Microsoft IT Support Specialist Specialization
+  - Google Cybersecurity Professional Certificate
   - Fortinet Certified Fundamentals Cybersecurity
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
@@ -32,7 +33,6 @@
 
 <h2>Currently Training:</h2>
  
-  - Google Cybersecurity Professional Certificate (Expected December 2025)</li>
   - CompTIA Security+ (SY0-701) (Expected December 2025)</li>
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected December 2025 - January 2026)</li>
 

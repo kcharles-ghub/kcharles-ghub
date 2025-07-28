@@ -25,6 +25,7 @@
   - Microsoft IT Support Specialist Specialization
   - Google Cybersecurity Professional Certificate
   - Fortinet Certified Fundamentals Cybersecurity
+  - Fortinet Certified Associate Cybersecurity
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals

@@ -23,19 +23,17 @@
   - CompTIA Cloud Essentials Certification
   - Cisco Certified Support Technician Networking (CCST Networking)
   - Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
-  - Microsoft IT Support Specialist Specialization
   - Google Cybersecurity Professional Certificate
   - Fortinet Certified Fundamentals Cybersecurity
   - Fortinet Certified Associate Cybersecurity
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals
-  - The Johns Hopkins University | Coursera Healthcare IT Support Specialization
-
+  
 <h2>Currently Training:</h2>
  
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2026)</li>
-  - CompTIA Network+ (V9) certification exam (Expected January 2026)</li>
+  - CompTIA Network+ (V9) N10-009 certification exam (Expected March 2026)</li>
 
 <h2>Thank You for Visiting My Page!</h2>
  

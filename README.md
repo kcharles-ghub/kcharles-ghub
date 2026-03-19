@@ -33,8 +33,9 @@
   
 <h2>Currently Training:</h2>
  
-  - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2026)</li>
-  - PMI Certified Associate in Project Management (CAPM) </li>
+  - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2027)</li>
+  - PMI Certified Associate in Project Management (CAPM) (Expected July 2026 - December 2026) </li>
+  - Google Project Management Professional Certificate (Expected July 2026) </li>
 
 <h2>Thank You for Visiting My Page!</h2>
  

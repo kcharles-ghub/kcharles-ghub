@@ -2,7 +2,7 @@
 
 <h2> Information Technology Key Projects:</h2>
 
-- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
+- <b>Microsoft Azure (Active Directory / Network Monitoring / DNS Configuration)</b>
   - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/kcharles-ghub/vm-remotedesktop)
   - [Configuring Active Directory within Azure VMs](https://github.com/kcharles-ghub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kcharles-ghub/azure-network-protocols)

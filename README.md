@@ -24,6 +24,7 @@
   - CompTIA Cloud Essentials Certification
   - Cisco Certified Support Technician Networking (CCST Networking)
   - Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
+  - Google IT Support Professional Certificate
   - Google Cybersecurity Professional Certificate
   - Fortinet Certified Fundamentals Cybersecurity
   - Fortinet Certified Associate Cybersecurity

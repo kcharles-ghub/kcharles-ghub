@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kadeem, an <a href="https://linkedin.com/in/kadeem-charles-in">IT Professional </h1>
+<h1>Hi, I'm Kadeem, an <a href="https://linkedin.com/in/kadeem-charles-in">IT Networking and Cloud Professional </h1>
 
 <h2> Information Technology Key Projects:</h2>
 

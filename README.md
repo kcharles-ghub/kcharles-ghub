@@ -23,13 +23,17 @@
   - CompTIA Cloud Essentials Certification
   - Cisco Certified Support Technician Networking (CCST Networking)
   - Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
-  - Google IT Support Professional Certificate
-  - Google Cybersecurity Professional Certificate
   - Fortinet Certified Fundamentals Cybersecurity
   - Fortinet Certified Associate Cybersecurity
   - Microsoft 365 Certified: Fundamentals
   - Microsoft Certified: Azure Fundamentals
   - Microsoft Certified: Security, Compliance, and Identity Fundamentals
+
+<h2>Certificates:</h2>
+
+  - CourseCareers Information Technology Professional Certificate
+  - Google IT Support Professional Certificate
+  - Google Cybersecurity Professional Certificate
   
 <h2>Currently Training:</h2>
  

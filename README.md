@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kadeem, an <a href="https://linkedin.com/in/kadeem-charles-in">IT Networking and Cloud Professional </h1>
+<h1>Hi, I'm Kadeem, an <a href="https://linkedin.com/in/kadeem-charles-in">IT Network and Cloud Professional </h1>
 
 <h2> Information Technology Key Projects:</h2>
 
@@ -37,6 +37,7 @@
   - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2027)</li>
   - PMI Certified Associate in Project Management (CAPM) (Expected July 2026 - December 2026) </li>
   - Google Project Management Professional Certificate (Expected July 2026) </li>
+  - Professional Success Skills Specialization from the University of Illinois Gies College of Business (Expected August 2026) </li>
 
 <h2>Thank You for Visiting My Page!</h2>
  

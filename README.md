@@ -16,7 +16,6 @@
 <h2>Certifications:</h2>
 
   - Linux Professional Institute Linux Essentials
-  - CourseCareers IT Professional Certification
   - CompTIA IT Fundamentals (ITF+) Certification
   - CompTIA A+ Certification
   - CompTIA Network+ Certification

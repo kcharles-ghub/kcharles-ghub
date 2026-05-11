@@ -37,8 +37,8 @@
   
 <h2>Currently Training:</h2>
  
-  - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2027)</li>
-  - PMI Certified Associate in Project Management (CAPM) (Expected July 2026 - December 2026) </li>
+  - Cisco Certified Network Associate (200-301 CCNA) v1.1 (Expected July 2026 - December 2026)</li>
+  - PMI Certified Associate in Project Management (CAPM) (Expected September 2026 - December 2026) </li>
   - Google Project Management Professional Certificate (Expected July 2026) </li>
   - Professional Success Skills Specialization from the University of Illinois Gies College of Business (Expected August 2026) </li>
 
